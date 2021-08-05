@@ -7,10 +7,15 @@ USE CASES for project
 5. Login user should accept user name, password and user type as 
    Customer/Mechanic/Manager/admin
 6. After login for user type customer Dashboard for customer should be
-displayed
+	displayed
 7. After login for user type Manager Dashboard for Manager should be
-displayed
+	displayed
 8. After login for user type Admin Dashboard for Admin should be
-displayed
+	displayed
 9. After login for user type Mechanic Dashboard for Mechanic should be
-displayed
+	displayed
+10. Customer dashboard should have search,select services,remove and purchase
+11. Manager dashboard should have add service details,remove,update service details
+	Manager dashboard approve approve user(customer)
+12.Admin dashboard approve user(Manager,customer,mechanic),approve manager services 
+	details,view list of customers,view list of mechanics
